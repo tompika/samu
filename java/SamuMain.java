@@ -1,11 +1,16 @@
 /**
  * @brief SAMU - the potential ancestor of developmental robotics chatter bots
  *
+ * Java version:
  * @file SamuMain.java
  * @author Szilvácsku Péter
  * @contributor Madar József  
  * @version 0.0.1
- *
+ * 
+ * Original version:
+ * Author: Norbert Bátfai  
+ * https://github.com/nbatfai/samu
+ * 
  * @section LICENSE
  *
  * Copyright (C) 2015 Norbert Bátfai, batfai.norbert@inf.unideb.hu
@@ -37,7 +42,7 @@
 
 
 
-package samu;
+package java;
 
 public class SamuMain {
 
